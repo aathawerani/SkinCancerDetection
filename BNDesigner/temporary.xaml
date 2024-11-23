@@ -1,0 +1,16 @@
+﻿<Window x:Class="DiagramDesigner.temporary"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="temporary" Height="300" Width="300">
+    <Grid>
+        <Grid Margin="112,100,-18,63" Name="grid1" ShowGridLines="False">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="57*" />
+                <ColumnDefinition Width="143*" />
+            </Grid.ColumnDefinitions>
+            <ProgressBar Grid.Column="1" Margin="21,47,65,40" Name="progressBar1" Background="Chartreuse" BorderBrush="MistyRose" />
+            <ProgressBar Grid.Column="1" Height="10" Margin="21,0,65,25" Name="progressBar2" VerticalAlignment="Bottom" Background="BlueViolet" />
+            <ProgressBar Grid.Column="1" Height="10" Margin="48,33,-16,0" Name="progressBar3" VerticalAlignment="Top" Foreground="OrangeRed" Value="50" />
+        </Grid>
+    </Grid>
+</Window>

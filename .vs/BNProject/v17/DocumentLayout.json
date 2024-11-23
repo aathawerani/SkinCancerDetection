@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\aaht14\\freelance\\Projects\\Projects\\CI\\BNProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA4FEC-3D41-48F0-B66F-7266AC337319}|Bayesian\\Bayesian\\Bayesian.csproj|d:\\aaht14\\freelance\\projects\\projects\\ci\\bnproject\\bayesian\\bayesian\\cpt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA4FEC-3D41-48F0-B66F-7266AC337319}|Bayesian\\Bayesian\\Bayesian.csproj|solutionrelative:bayesian\\bayesian\\cpt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA4FEC-3D41-48F0-B66F-7266AC337319}|Bayesian\\Bayesian\\Bayesian.csproj|D:\\aaht14\\freelance\\Projects\\Projects\\CI\\BNProject\\bayesian\\bayesian\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA4FEC-3D41-48F0-B66F-7266AC337319}|Bayesian\\Bayesian\\Bayesian.csproj|solutionrelative:bayesian\\bayesian\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA4FEC-3D41-48F0-B66F-7266AC337319}|Bayesian\\Bayesian\\Bayesian.csproj|D:\\aaht14\\freelance\\Projects\\Projects\\CI\\BNProject\\bayesian\\bayesian\\castpt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA4FEC-3D41-48F0-B66F-7266AC337319}|Bayesian\\Bayesian\\Bayesian.csproj|solutionrelative:bayesian\\bayesian\\castpt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CPT.cs",
+              "DocumentMoniker": "D:\\aaht14\\freelance\\Projects\\Projects\\CI\\BNProject\\Bayesian\\Bayesian\\CPT.cs",
+              "RelativeDocumentMoniker": "Bayesian\\Bayesian\\CPT.cs",
+              "ToolTip": "D:\\aaht14\\freelance\\Projects\\Projects\\CI\\BNProject\\Bayesian\\Bayesian\\CPT.cs",
+              "RelativeToolTip": "Bayesian\\Bayesian\\CPT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:01:54.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "D:\\aaht14\\freelance\\Projects\\Projects\\CI\\BNProject\\Bayesian\\Bayesian\\Connection.cs",
+              "RelativeDocumentMoniker": "Bayesian\\Bayesian\\Connection.cs",
+              "ToolTip": "D:\\aaht14\\freelance\\Projects\\Projects\\CI\\BNProject\\Bayesian\\Bayesian\\Connection.cs",
+              "RelativeToolTip": "Bayesian\\Bayesian\\Connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:01:46.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CASTPT.cs",
+              "DocumentMoniker": "D:\\aaht14\\freelance\\Projects\\Projects\\CI\\BNProject\\Bayesian\\Bayesian\\CASTPT.cs",
+              "RelativeDocumentMoniker": "Bayesian\\Bayesian\\CASTPT.cs",
+              "ToolTip": "D:\\aaht14\\freelance\\Projects\\Projects\\CI\\BNProject\\Bayesian\\Bayesian\\CASTPT.cs",
+              "RelativeToolTip": "Bayesian\\Bayesian\\CASTPT.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:01:29.153Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

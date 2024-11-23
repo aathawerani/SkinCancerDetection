@@ -1,0 +1,127 @@
+E:\Saleha\IBA Courses\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\bin\Debug\DiagramDesigner.exe
+E:\Saleha\IBA Courses\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\bin\Debug\DiagramDesigner.pdb
+E:\Saleha\IBA Courses\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\ResolveAssemblyReference.cache
+E:\Saleha\IBA Courses\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\Resources\Styles\Expander.baml
+E:\Saleha\IBA Courses\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\Resources\Styles\GroupBox.baml
+E:\Saleha\IBA Courses\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\Resources\Styles\ScrollBar.baml
+E:\Saleha\IBA Courses\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\Resources\Styles\Shared.baml
+E:\Saleha\IBA Courses\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\Resources\Styles\ToolBar.baml
+E:\Saleha\IBA Courses\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\App.baml
+E:\Saleha\IBA Courses\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\Window1.g.cs
+E:\Saleha\IBA Courses\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\App.g.cs
+E:\Saleha\IBA Courses\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Saleha\IBA Courses\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\DiagramDesigner_MarkupCompile.cache
+E:\Saleha\IBA Courses\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\DiagramDesigner_MarkupCompile.lref
+E:\Saleha\IBA Courses\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\Resources\ApplicationToolbar.baml
+E:\Saleha\IBA Courses\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\Resources\Connection.baml
+E:\Saleha\IBA Courses\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\Resources\DesignerItem.baml
+E:\Saleha\IBA Courses\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\Resources\Stencils\FlowChartStencils.baml
+E:\Saleha\IBA Courses\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\Resources\Stencils\ShapeStencils.baml
+E:\Saleha\IBA Courses\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\Resources\Toolbox.baml
+E:\Saleha\IBA Courses\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\Resources\ToolboxItem.baml
+E:\Saleha\IBA Courses\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\Window1.baml
+E:\Saleha\IBA Courses\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\DiagramDesigner.g.resources
+E:\Saleha\IBA Courses\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\DiagramDesigner.Properties.Resources.resources
+E:\Saleha\IBA Courses\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\DiagramDesigner.csproj.GenerateResource.Cache
+E:\Saleha\IBA Courses\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\DiagramDesigner.exe
+E:\Saleha\IBA Courses\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\DiagramDesigner.pdb
+E:\PhD\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\DiagramDesigner.exe
+E:\PhD\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\DiagramDesigner.pdb
+E:\PhD\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\bin\Debug\DiagramDesigner.exe
+E:\PhD\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\bin\Debug\DiagramDesigner.pdb
+E:\PhD\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\ResolveAssemblyReference.cache
+E:\PhD\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\Resources\Styles\Expander.baml
+E:\PhD\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\Resources\Styles\GroupBox.baml
+E:\PhD\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\Resources\Styles\ScrollBar.baml
+E:\PhD\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\Resources\Styles\Shared.baml
+E:\PhD\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\Resources\Styles\ToolBar.baml
+E:\PhD\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\App.baml
+E:\PhD\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\Window1.g.cs
+E:\PhD\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\App.g.cs
+E:\PhD\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\PhD\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\DiagramDesigner_MarkupCompile.cache
+E:\PhD\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\DiagramDesigner_MarkupCompile.lref
+E:\PhD\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\Resources\ApplicationToolbar.baml
+E:\PhD\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\Resources\Connection.baml
+E:\PhD\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\Resources\DesignerItem.baml
+E:\PhD\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\Resources\Stencils\FlowChartStencils.baml
+E:\PhD\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\Resources\Stencils\ShapeStencils.baml
+E:\PhD\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\Resources\Toolbox.baml
+E:\PhD\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\Resources\ToolboxItem.baml
+E:\PhD\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\Window1.baml
+E:\PhD\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\DiagramDesigner.g.resources
+E:\PhD\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\DiagramDesigner.Properties.Resources.resources
+E:\PhD\Probablistic Reasoning\Project\WPF\DiagramDesignerPart4\DiagramDesigner\obj\Debug\DiagramDesigner.csproj.GenerateResource.Cache
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\obj\Debug\DiagramDesigner.exe
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\obj\Debug\DiagramDesigner.pdb
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\bin\Debug\DiagramDesigner.exe
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\bin\Debug\DiagramDesigner.pdb
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\obj\Debug\ResolveAssemblyReference.cache
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\obj\Debug\Resources\Styles\Expander.baml
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\obj\Debug\Resources\Styles\GroupBox.baml
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\obj\Debug\Resources\Styles\ScrollBar.baml
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\obj\Debug\Resources\Styles\Shared.baml
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\obj\Debug\Resources\Styles\ToolBar.baml
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\obj\Debug\Window2.baml
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\obj\Debug\App.baml
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\obj\Debug\Window1.g.cs
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\obj\Debug\Window2.g.cs
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\obj\Debug\App.g.cs
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\obj\Debug\DiagramDesigner_MarkupCompile.cache
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\obj\Debug\DiagramDesigner_MarkupCompile.lref
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\obj\Debug\Resources\ApplicationToolbar.baml
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\obj\Debug\Resources\Connection.baml
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\obj\Debug\Resources\DesignerItem.baml
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\obj\Debug\Resources\Stencils\FlowChartStencils.baml
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\obj\Debug\Resources\Stencils\ShapeStencils.baml
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\obj\Debug\Resources\Toolbox.baml
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\obj\Debug\Resources\ToolboxItem.baml
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\obj\Debug\Window1.baml
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\obj\Debug\DiagramDesigner.g.resources
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\obj\Debug\DiagramDesigner.Properties.Resources.resources
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\obj\Debug\DiagramDesigner.csproj.GenerateResource.Cache
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\obj\Debug\Test.baml
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\obj\Debug\Test.g.cs
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\obj\Debug\Resources\Stencils\FlowChartStencils.g.cs
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\obj\Debug\DiagramDesigner.frmNodeProperties.resources
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\obj\Debug\DiagramDesigner.frmConnectionProperties.resources
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\bin\Debug\smilenet.dll
+E:\PhD\Probablistic Reasoning\Project\WPF\WPFTest\DiagramDesigner\obj\Debug\DiagramDesigner.frmResult.resources
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\DiagramDesigner.exe
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\DiagramDesigner.pdb
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\bin\Debug\DiagramDesigner.exe
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\bin\Debug\DiagramDesigner.pdb
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\ResolveAssemblyReference.cache
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\Resources\Styles\Expander.baml
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\Resources\Styles\GroupBox.baml
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\Resources\Styles\ScrollBar.baml
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\Resources\Styles\Shared.baml
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\Resources\Styles\ToolBar.baml
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\Window2.baml
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\App.baml
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\Resources\Stencils\FlowChartStencils.g.cs
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\Test.g.cs
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\Window1.g.cs
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\Window2.g.cs
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\App.g.cs
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\DiagramDesigner_MarkupCompile.cache
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\DiagramDesigner_MarkupCompile.lref
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\Resources\ApplicationToolbar.baml
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\Resources\Connection.baml
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\Resources\DesignerItem.baml
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\Resources\Stencils\FlowChartStencils.baml
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\Resources\Stencils\ShapeStencils.baml
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\Resources\Toolbox.baml
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\Resources\ToolboxItem.baml
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\Test.baml
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\Window1.baml
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\DiagramDesigner.g.resources
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\DiagramDesigner.frmResult.resources
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\DiagramDesigner.frmNodeProperties.resources
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\DiagramDesigner.frmConnectionProperties.resources
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\DiagramDesigner.Properties.Resources.resources
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\DiagramDesigner.csproj.GenerateResource.Cache
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\temporary.baml
+E:\PhD\Probablistic Reasoning\Project\WPFTest\DiagramDesigner\obj\Debug\temporary.g.cs

@@ -1,0 +1,87 @@
+C:\Users\admin\Documents\Visual Studio 2008\Projects\Bayesian\Bayesian\bin\Debug\Bayesian.dll
+C:\Users\admin\Documents\Visual Studio 2008\Projects\Bayesian\Bayesian\bin\Debug\Bayesian.pdb
+C:\Users\admin\Documents\Visual Studio 2008\Projects\Bayesian\Bayesian\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2008\Projects\Bayesian\Bayesian\obj\Debug\Bayesian.dll
+C:\Users\admin\Documents\Visual Studio 2008\Projects\Bayesian\Bayesian\obj\Debug\Bayesian.pdb
+E:\PhD\Probablistic Reasoning\Project\WPFTest\Bayesian\Bayesian\bin\Debug\Bayesian.dll
+E:\PhD\Probablistic Reasoning\Project\WPFTest\Bayesian\Bayesian\bin\Debug\Bayesian.pdb
+E:\PhD\Probablistic Reasoning\Project\WPFTest\Bayesian\Bayesian\obj\Debug\ResolveAssemblyReference.cache
+E:\PhD\Probablistic Reasoning\Project\WPFTest\Bayesian\Bayesian\obj\Debug\Bayesian.dll
+E:\PhD\Probablistic Reasoning\Project\WPFTest\Bayesian\Bayesian\obj\Debug\Bayesian.pdb
+E:\PhD\Probablistic Reasoning\Project\WPFTest\Bayesian\Bayesian\bin\Debug\smilenet.dll
+E:\PhD\Probablistic Reasoning\Project\BNProject\Bayesian\Bayesian\bin\Debug\Bayesian.dll
+E:\PhD\Probablistic Reasoning\Project\BNProject\Bayesian\Bayesian\bin\Debug\Bayesian.pdb
+E:\PhD\Probablistic Reasoning\Project\BNProject\Bayesian\Bayesian\obj\Debug\ResolveAssemblyReference.cache
+E:\PhD\Probablistic Reasoning\Project\BNProject\Bayesian\Bayesian\obj\Debug\Bayesian.dll
+E:\PhD\Probablistic Reasoning\Project\BNProject\Bayesian\Bayesian\obj\Debug\Bayesian.pdb
+C:\AsmaWork\Bayesian Project (Latest)\BNProjectUpdated19Dec\Bayesian\Bayesian\bin\Debug\Bayesian.dll
+C:\AsmaWork\Bayesian Project (Latest)\BNProjectUpdated19Dec\Bayesian\Bayesian\bin\Debug\Bayesian.pdb
+C:\AsmaWork\Bayesian Project (Latest)\BNProjectUpdated19Dec\Bayesian\Bayesian\obj\Debug\ResolveAssemblyReference.cache
+C:\AsmaWork\Bayesian Project (Latest)\BNProjectUpdated19Dec\Bayesian\Bayesian\obj\Debug\Bayesian.dll
+C:\AsmaWork\Bayesian Project (Latest)\BNProjectUpdated19Dec\Bayesian\Bayesian\obj\Debug\Bayesian.pdb
+E:\PhD\Probablistic Reasoning\Project\BNProject_29Dec2009\Bayesian\Bayesian\bin\Debug\Bayesian.dll
+E:\PhD\Probablistic Reasoning\Project\BNProject_29Dec2009\Bayesian\Bayesian\bin\Debug\Bayesian.pdb
+E:\PhD\Probablistic Reasoning\Project\BNProject_29Dec2009\Bayesian\Bayesian\obj\Debug\ResolveAssemblyReference.cache
+E:\PhD\Probablistic Reasoning\Project\BNProject_29Dec2009\Bayesian\Bayesian\obj\Debug\Bayesian.dll
+E:\PhD\Probablistic Reasoning\Project\BNProject_29Dec2009\Bayesian\Bayesian\obj\Debug\Bayesian.pdb
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19Jan2010\BNProject\Bayesian\Bayesian\bin\Debug\Bayesian.dll
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19Jan2010\BNProject\Bayesian\Bayesian\bin\Debug\Bayesian.pdb
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19Jan2010\BNProject\Bayesian\Bayesian\obj\Debug\ResolveAssemblyReference.cache
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19Jan2010\BNProject\Bayesian\Bayesian\obj\Debug\Bayesian.dll
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19Jan2010\BNProject\Bayesian\Bayesian\obj\Debug\Bayesian.pdb
+C:\AsmaWork\Bayesian Project (Latest)\BNProject21Jan2010\BNProject\Bayesian\Bayesian\bin\Debug\Bayesian.dll
+C:\AsmaWork\Bayesian Project (Latest)\BNProject21Jan2010\BNProject\Bayesian\Bayesian\bin\Debug\Bayesian.pdb
+C:\AsmaWork\Bayesian Project (Latest)\BNProject21Jan2010\BNProject\Bayesian\Bayesian\obj\Debug\ResolveAssemblyReference.cache
+C:\AsmaWork\Bayesian Project (Latest)\BNProject21Jan2010\BNProject\Bayesian\Bayesian\obj\Debug\Bayesian.dll
+C:\AsmaWork\Bayesian Project (Latest)\BNProject21Jan2010\BNProject\Bayesian\Bayesian\obj\Debug\Bayesian.pdb
+C:\Users\admin\Desktop\attachments_01_21_2010\BNProject21Jan2010\BNProject21Jan2010\BNProject\Bayesian\Bayesian\bin\Debug\Bayesian.dll
+C:\Users\admin\Desktop\attachments_01_21_2010\BNProject21Jan2010\BNProject21Jan2010\BNProject\Bayesian\Bayesian\bin\Debug\Bayesian.pdb
+C:\Users\admin\Desktop\attachments_01_21_2010\BNProject21Jan2010\BNProject21Jan2010\BNProject\Bayesian\Bayesian\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\attachments_01_21_2010\BNProject21Jan2010\BNProject21Jan2010\BNProject\Bayesian\Bayesian\obj\Debug\Bayesian.dll
+C:\Users\admin\Desktop\attachments_01_21_2010\BNProject21Jan2010\BNProject21Jan2010\BNProject\Bayesian\Bayesian\obj\Debug\Bayesian.pdb
+E:\PhD\Probablistic Reasoning\Project\BNProject\BNProject21Jan2010\BNProject21Jan2010\BNProject\Bayesian\Bayesian\bin\Debug\Bayesian.dll
+E:\PhD\Probablistic Reasoning\Project\BNProject\BNProject21Jan2010\BNProject21Jan2010\BNProject\Bayesian\Bayesian\bin\Debug\Bayesian.pdb
+E:\PhD\Probablistic Reasoning\Project\BNProject\BNProject21Jan2010\BNProject21Jan2010\BNProject\Bayesian\Bayesian\obj\Debug\ResolveAssemblyReference.cache
+E:\PhD\Probablistic Reasoning\Project\BNProject\BNProject21Jan2010\BNProject21Jan2010\BNProject\Bayesian\Bayesian\obj\Debug\Bayesian.dll
+E:\PhD\Probablistic Reasoning\Project\BNProject\BNProject21Jan2010\BNProject21Jan2010\BNProject\Bayesian\Bayesian\obj\Debug\Bayesian.pdb
+E:\PhD\Probablistic Reasoning\Project\BNProject\BNProject\Bayesian\Bayesian\bin\Debug\Bayesian.dll
+E:\PhD\Probablistic Reasoning\Project\BNProject\BNProject\Bayesian\Bayesian\bin\Debug\Bayesian.pdb
+E:\PhD\Probablistic Reasoning\Project\BNProject\BNProject\Bayesian\Bayesian\obj\Debug\ResolveAssemblyReference.cache
+E:\PhD\Probablistic Reasoning\Project\BNProject\BNProject\Bayesian\Bayesian\obj\Debug\Bayesian.dll
+E:\PhD\Probablistic Reasoning\Project\BNProject\BNProject\Bayesian\Bayesian\obj\Debug\Bayesian.pdb
+C:\AsmaWork\Bayesian Project (Latest)\BNProject28Jan2010\BNProject\Bayesian\Bayesian\bin\Debug\Bayesian.dll
+C:\AsmaWork\Bayesian Project (Latest)\BNProject28Jan2010\BNProject\Bayesian\Bayesian\bin\Debug\Bayesian.pdb
+C:\AsmaWork\Bayesian Project (Latest)\BNProject28Jan2010\BNProject\Bayesian\Bayesian\obj\Debug\ResolveAssemblyReference.cache
+C:\AsmaWork\Bayesian Project (Latest)\BNProject28Jan2010\BNProject\Bayesian\Bayesian\obj\Debug\Bayesian.dll
+C:\AsmaWork\Bayesian Project (Latest)\BNProject28Jan2010\BNProject\Bayesian\Bayesian\obj\Debug\Bayesian.pdb
+E:\PhD\Probablistic Reasoning\Project\BNProject30Jan2010From Asma\BNProject30Jan2010\BNProject\Bayesian\Bayesian\bin\Debug\Bayesian.dll
+E:\PhD\Probablistic Reasoning\Project\BNProject30Jan2010From Asma\BNProject30Jan2010\BNProject\Bayesian\Bayesian\bin\Debug\Bayesian.pdb
+E:\PhD\Probablistic Reasoning\Project\BNProject30Jan2010From Asma\BNProject30Jan2010\BNProject\Bayesian\Bayesian\obj\Debug\ResolveAssemblyReference.cache
+E:\PhD\Probablistic Reasoning\Project\BNProject30Jan2010From Asma\BNProject30Jan2010\BNProject\Bayesian\Bayesian\obj\Debug\Bayesian.dll
+E:\PhD\Probablistic Reasoning\Project\BNProject30Jan2010From Asma\BNProject30Jan2010\BNProject\Bayesian\Bayesian\obj\Debug\Bayesian.pdb
+E:\PhD\Project\BNProject\BNProject\Bayesian\Bayesian\bin\Debug\Bayesian.dll
+E:\PhD\Project\BNProject\BNProject\Bayesian\Bayesian\bin\Debug\Bayesian.pdb
+E:\PhD\Project\BNProject\BNProject\Bayesian\Bayesian\obj\Debug\ResolveAssemblyReference.cache
+E:\PhD\Project\BNProject\BNProject\Bayesian\Bayesian\obj\Debug\Bayesian.dll
+E:\PhD\Project\BNProject\BNProject\Bayesian\Bayesian\obj\Debug\Bayesian.pdb
+E:\PhD\Project\IBAyes\BNProject\Bayesian\Bayesian\bin\Debug\Bayesian.dll
+E:\PhD\Project\IBAyes\BNProject\Bayesian\Bayesian\bin\Debug\Bayesian.pdb
+E:\PhD\Project\IBAyes\BNProject\Bayesian\Bayesian\bin\Debug\smilenet.dll
+E:\PhD\Project\IBAyes\BNProject\Bayesian\Bayesian\obj\Debug\ResolveAssemblyReference.cache
+E:\PhD\Project\IBAyes\BNProject\Bayesian\Bayesian\obj\Debug\Bayesian.dll
+E:\PhD\Project\IBAyes\BNProject\Bayesian\Bayesian\obj\Debug\Bayesian.pdb
+E:\PhD\BNProject2\Bayesian\Bayesian\bin\Debug\Bayesian.dll
+E:\PhD\BNProject2\Bayesian\Bayesian\bin\Debug\Bayesian.pdb
+E:\PhD\BNProject2\Bayesian\Bayesian\obj\Debug\ResolveAssemblyReference.cache
+E:\PhD\BNProject2\Bayesian\Bayesian\obj\Debug\Bayesian.dll
+E:\PhD\BNProject2\Bayesian\Bayesian\obj\Debug\Bayesian.pdb
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\Bayesian\Bayesian\bin\Debug\Bayesian.dll
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\Bayesian\Bayesian\bin\Debug\Bayesian.pdb
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\Bayesian\Bayesian\obj\Debug\ResolveAssemblyReference.cache
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\Bayesian\Bayesian\obj\Debug\Bayesian.dll
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\Bayesian\Bayesian\obj\Debug\Bayesian.pdb
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\Bayesian\Bayesian\bin\Debug\Bayesian.dll
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\Bayesian\Bayesian\bin\Debug\Bayesian.pdb
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\Bayesian\Bayesian\obj\Debug\ResolveAssemblyReference.cache
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\Bayesian\Bayesian\obj\Debug\Bayesian.dll
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\Bayesian\Bayesian\obj\Debug\Bayesian.pdb

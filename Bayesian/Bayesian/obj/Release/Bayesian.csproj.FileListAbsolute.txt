@@ -1,0 +1,21 @@
+E:\PhD\Project\BNProject\BNProject\Bayesian\Bayesian\bin\Release\Bayesian.dll
+E:\PhD\Project\BNProject\BNProject\Bayesian\Bayesian\bin\Release\Bayesian.pdb
+E:\PhD\Project\BNProject\BNProject\Bayesian\Bayesian\bin\Release\smilenet.dll
+E:\PhD\Project\BNProject\BNProject\Bayesian\Bayesian\obj\Release\ResolveAssemblyReference.cache
+E:\PhD\Project\BNProject\BNProject\Bayesian\Bayesian\obj\Release\Bayesian.dll
+E:\PhD\Project\BNProject\BNProject\Bayesian\Bayesian\obj\Release\Bayesian.pdb
+C:\AsmaWork\Bayesian Project (Latest)\BNProject16April2010\BNProject\Bayesian\Bayesian\bin\Release\Bayesian.dll
+C:\AsmaWork\Bayesian Project (Latest)\BNProject16April2010\BNProject\Bayesian\Bayesian\bin\Release\Bayesian.pdb
+C:\AsmaWork\Bayesian Project (Latest)\BNProject16April2010\BNProject\Bayesian\Bayesian\obj\Release\ResolveAssemblyReference.cache
+C:\AsmaWork\Bayesian Project (Latest)\BNProject16April2010\BNProject\Bayesian\Bayesian\obj\Release\Bayesian.dll
+C:\AsmaWork\Bayesian Project (Latest)\BNProject16April2010\BNProject\Bayesian\Bayesian\obj\Release\Bayesian.pdb
+E:\PhD\Project\ibayes\BNProject\Bayesian\Bayesian\bin\Release\Bayesian.dll
+E:\PhD\Project\ibayes\BNProject\Bayesian\Bayesian\bin\Release\Bayesian.pdb
+E:\PhD\Project\ibayes\BNProject\Bayesian\Bayesian\bin\Release\smilenet.dll
+E:\PhD\Project\ibayes\BNProject\Bayesian\Bayesian\obj\Release\ResolveAssemblyReference.cache
+E:\PhD\Project\ibayes\BNProject\Bayesian\Bayesian\obj\Release\Bayesian.dll
+E:\PhD\Project\ibayes\BNProject\Bayesian\Bayesian\obj\Release\Bayesian.pdb
+D:\mystuff\PhD\CI\BNProject\Bayesian\Bayesian\bin\Release\Bayesian.dll
+D:\mystuff\PhD\CI\BNProject\Bayesian\Bayesian\bin\Release\Bayesian.pdb
+D:\mystuff\PhD\CI\BNProject\Bayesian\Bayesian\obj\Release\Bayesian.dll
+D:\mystuff\PhD\CI\BNProject\Bayesian\Bayesian\obj\Release\Bayesian.pdb

@@ -1,0 +1,180 @@
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\bin\Debug\IBAyes.exe
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\bin\Debug\IBAyes.pdb
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\bin\Debug\Bayesian.dll
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\bin\Debug\smileNet.dll
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\bin\Debug\Bayesian.pdb
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\ResolveAssemblyReference.cache
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\Resources\Styles\Expander.baml
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\Resources\Styles\GroupBox.baml
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\Resources\Styles\ScrollBar.baml
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\Resources\Styles\Shared.baml
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\Resources\Styles\ToolBar.baml
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\temporary.baml
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\App.baml
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\Resources\Stencils\FlowChartStencils.g.cs
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\temporary.g.cs
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\Test.g.cs
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\Window1.g.cs
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\Window2.g.cs
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\App.g.cs
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\IBAyes_MarkupCompile.cache
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\IBAyes_MarkupCompile.lref
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\Resources\ApplicationToolbar.baml
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\Resources\Connection.baml
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\Resources\DesignerItem.baml
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\Resources\Stencils\FlowChartStencils.baml
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\Resources\Stencils\ShapeStencils.baml
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\Resources\Toolbox.baml
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\Resources\ToolboxItem.baml
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\Test.baml
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\Window1.baml
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\Window2.baml
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\IBAyes.g.resources
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\DiagramDesigner.AboutBox1.resources
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\DiagramDesigner.frmResult.resources
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\DiagramDesigner.frmAbout.resources
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\DiagramDesigner.frmNodeProperties.resources
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\DiagramDesigner.frmConnectionProperties.resources
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\DiagramDesigner.frmNeworkProperties.resources
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\DiagramDesigner.frmSensitivityAnalysis.resources
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\DiagramDesigner.IBAyesSplash.resources
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\DiagramDesigner.Properties.Resources.resources
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\BNDesigner.csproj.GenerateResource.Cache
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\IBAyes.exe
+C:\AsmaWork\Bayesian Project (Latest)\BNProject6thMay2010\BNProject\BNDesigner\obj\Debug\IBAyes.pdb
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\IBAyes.exe
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\IBAyes.pdb
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\bin\Debug\IBAyes.exe
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\bin\Debug\IBAyes.pdb
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\bin\Debug\Bayesian.dll
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\bin\Debug\smileNet.dll
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\bin\Debug\Bayesian.pdb
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\ResolveAssemblyReference.cache
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Resources\Styles\Expander.baml
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Resources\Styles\GroupBox.baml
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Resources\Styles\ScrollBar.baml
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Resources\Styles\Shared.baml
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Resources\Styles\ToolBar.baml
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\temporary.baml
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\App.baml
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Resources\Stencils\FlowChartStencils.g.cs
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\temporary.g.cs
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Test.g.cs
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Window1.g.cs
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Window2.g.cs
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\App.g.cs
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\IBAyes_MarkupCompile.cache
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\IBAyes_MarkupCompile.lref
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Resources\ApplicationToolbar.baml
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Resources\Connection.baml
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Resources\DesignerItem.baml
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Resources\Stencils\FlowChartStencils.baml
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Resources\Stencils\ShapeStencils.baml
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Resources\Toolbox.baml
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Resources\ToolboxItem.baml
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Test.baml
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Window1.baml
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Window2.baml
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\IBAyes.g.resources
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\DiagramDesigner.AboutBox1.resources
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\DiagramDesigner.frmResult.resources
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\DiagramDesigner.frmAbout.resources
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\DiagramDesigner.frmNodeProperties.resources
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\DiagramDesigner.frmConnectionProperties.resources
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\DiagramDesigner.frmNeworkProperties.resources
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\DiagramDesigner.frmSensitivityAnalysis.resources
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\DiagramDesigner.IBAyesSplash.resources
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\DiagramDesigner.Properties.Resources.resources
+C:\AsmaWork\Bayesian Project (Latest)\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\BNDesigner.csproj.GenerateResource.Cache
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\IBAyes.exe
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\IBAyes.pdb
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\bin\Debug\IBAyes.exe
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\bin\Debug\IBAyes.pdb
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\bin\Debug\Bayesian.dll
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\bin\Debug\smileNet.dll
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\bin\Debug\Bayesian.pdb
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\ResolveAssemblyReference.cache
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Resources\Styles\Expander.baml
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Resources\Styles\GroupBox.baml
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Resources\Styles\ScrollBar.baml
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Resources\Styles\Shared.baml
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Resources\Styles\ToolBar.baml
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\temporary.baml
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\App.baml
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Resources\Stencils\FlowChartStencils.g.cs
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\temporary.g.cs
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Test.g.cs
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Window1.g.cs
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Window2.g.cs
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\App.g.cs
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\IBAyes_MarkupCompile.cache
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\IBAyes_MarkupCompile.lref
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Resources\ApplicationToolbar.baml
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Resources\Connection.baml
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Resources\DesignerItem.baml
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Resources\Stencils\FlowChartStencils.baml
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Resources\Stencils\ShapeStencils.baml
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Resources\Toolbox.baml
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Resources\ToolboxItem.baml
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Test.baml
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Window1.baml
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\Window2.baml
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\IBAyes.g.resources
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\DiagramDesigner.AboutBox1.resources
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\DiagramDesigner.frmResult.resources
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\DiagramDesigner.frmAbout.resources
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\DiagramDesigner.frmNodeProperties.resources
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\DiagramDesigner.frmConnectionProperties.resources
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\DiagramDesigner.frmNeworkProperties.resources
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\DiagramDesigner.frmSensitivityAnalysis.resources
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\DiagramDesigner.IBAyesSplash.resources
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\DiagramDesigner.Properties.Resources.resources
+E:\PhD\Project\IBAyes\BNProject19thMay2010\BNProject\BNDesigner\obj\Debug\BNDesigner.csproj.GenerateResource.Cache
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\IBAyes.exe
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\IBAyes.pdb
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\bin\Debug\IBAyes.exe
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\bin\Debug\IBAyes.pdb
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\bin\Debug\Bayesian.dll
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\bin\Debug\smileNet.dll
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\bin\Debug\Bayesian.pdb
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\ResolveAssemblyReference.cache
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\Resources\Styles\Expander.baml
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\Resources\Styles\GroupBox.baml
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\Resources\Styles\ScrollBar.baml
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\Resources\Styles\Shared.baml
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\Resources\Styles\ToolBar.baml
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\temporary.baml
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\App.baml
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\Resources\Stencils\FlowChartStencils.g.cs
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\temporary.g.cs
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\Test.g.cs
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\Window1.g.cs
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\Window2.g.cs
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\App.g.cs
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\IBAyes_MarkupCompile.cache
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\IBAyes_MarkupCompile.lref
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\Resources\ApplicationToolbar.baml
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\Resources\Connection.baml
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\Resources\DesignerItem.baml
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\Resources\Stencils\FlowChartStencils.baml
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\Resources\Stencils\ShapeStencils.baml
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\Resources\Toolbox.baml
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\Resources\ToolboxItem.baml
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\Test.baml
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\Window1.baml
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\Window2.baml
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\IBAyes.g.resources
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\DiagramDesigner.AboutBox1.resources
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\DiagramDesigner.frmResult.resources
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\DiagramDesigner.frmAbout.resources
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\DiagramDesigner.frmNodeProperties.resources
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\DiagramDesigner.frmConnectionProperties.resources
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\DiagramDesigner.frmNeworkProperties.resources
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\DiagramDesigner.frmSensitivityAnalysis.resources
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\DiagramDesigner.IBAyesSplash.resources
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\DiagramDesigner.Properties.Resources.resources
+E:\PhD\Project\IBAyes\BNProject\BNDesigner\obj\Debug\BNDesigner.csproj.GenerateResource.Cache
